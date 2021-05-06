@@ -1,5 +1,8 @@
 {
-    "title": "Eleventy Tailwind Starter Template",
+    "name": "Company Name",
+    "title": "Insert Title",
+    "header": "Insert Header",
+    "sub-header": "Insert Sub-Header",
     "logo": "link",
     "navbar": {
         "About": "/about",
